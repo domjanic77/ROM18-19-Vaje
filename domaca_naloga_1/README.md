@@ -30,6 +30,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) KonecVaj
 - (2) AliGremLahkoNaWC
 - (3) KlemenSkukan
+- (5) domjanic77
 - ...
 - (6) TPogacar
 - (7) KlaraKosec
@@ -70,6 +71,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (16) ursagabrovec
 - (18) Gorlar
 - (10) piploli
+- (13) domjanic77
 
 ### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf)
 - (1) uporabnisko_ime_1
@@ -109,6 +111,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) lapajnea
+- (5) domjanic77
 - (9) maja12345678910
 - (18) mitjamori
 - (17) KlemenSkukan
@@ -126,6 +129,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
 - (2) KlaraKosec
+- (3) domjanic77
 - (5) maja12345678910
 - (6) ursagabrovec
 - (7) lapajnea
@@ -154,6 +158,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) DenisBencic
 - (3) maja12345678910
+- (4) domjanic77
 - ...
 - (7) TeaKn
 - (8) ZacetekVaj
@@ -188,6 +193,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (3) ursagabrovec
 - (4) piploli
+- (5) domjanic77
 - (7) Gorlar
 - (8) ZacetekVaj
 - (9) maja12345678910
@@ -245,6 +251,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - (7) mitjamori
 - (8) TeaKn
+- (9) domjanic77
 - ...
 - (3) piploli
 
@@ -261,6 +268,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 - (7) TeaKn
+- (9) domjanic77
 
 ### Učni list - Racionalna funkcija - 2.pdf
 - (1) SmokeyAjax
@@ -304,6 +312,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Zaporedja.pdf
 - (1) 15minutOdmora
 - (2) uporabnisko_ime_2
+- (5) domjanic77
 - (10) PeterFMF
 - ...
 
