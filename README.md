@@ -31,3 +31,4 @@ V nadaljevanju so našteta uporabniška imena s povezavami na repozitorije sodel
 - [jemecema](https://github.com/jemecema/ROM)
 - [piploli](https://github.com/piploli)
 - [DjansS](https://github.com/DjansS)
+- [domjanic77](https://github.com/domjanic77/ROM)
