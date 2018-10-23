@@ -34,7 +34,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) KlaraKosec
 - (8) ZacetekVaj
 - (9) 15minutOdmora
-- (23) domjanic77
+
 
 ### Učni list - Deljivost.pdf
 - (1) KonecVaj
@@ -48,7 +48,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) AliGremLahkoNaWC
 - (3) KonecVaj
 - (6) 15minutOdmora
-- (13) domjanic77
+
 
 ### Učni list - Računanje z izrazi.pdf
 - (1) uporabnisko_ime_1
@@ -70,7 +70,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Sorazmerja in odstotki.pdf
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
-- (3) domjanic77
+
 - ...
 
 ### Učni list - Realna števila.pdf
@@ -84,7 +84,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) KlaraKosec
 - ...
 - (8) ZacetekVaj
-- (6) domjanic77
+
 
 ### Učni list - Pravokotni koordinatni sistem.pdf
 - (1) uporabnisko_ime_1
@@ -99,7 +99,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Sistemi linearnih enačb.pdf
 - (1) uporabnisko_ime_1
 - (2) 
-- (4) domjanic77
+
 - ...
 - (8) ZacetekVaj
 
@@ -128,7 +128,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
-- (5) domjanic77
+
 - (8) ZacetekVaj
 
 ### Učni list - Kvadratna funkcija.pdf
@@ -169,7 +169,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
-- (9) domjanic77
+
 
 ### Učni list - Polinomi - 2.pdf
 - (1) SmokeyAjax
@@ -180,7 +180,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
-- (9) domjanic77
+
 
 ### Učni list - Racionalna funkcija - 2.pdf
 - (1) SmokeyAjax
@@ -221,7 +221,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) 15minutOdmora
 - (2) uporabnisko_ime_2
 - ...
-- (5) domjanic77
+
 
 ### Učni list - Aritmetična zaporedja.pdf
 - (1) 15minutOdmora
