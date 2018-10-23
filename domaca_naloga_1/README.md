@@ -173,6 +173,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (15) piploli
 ### Učni list - Računanje s koreni.pdf
 - (1) SmokeyAjax
+- (6) domjanic77
 - (7) Gorlar 
 - (10) PeterFMF
 - (11) urskabaskovic
